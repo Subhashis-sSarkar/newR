@@ -1,0 +1,17 @@
+#ma{
+    height:12px;
+}
+#pht{
+    width:18rem;
+    height:14rem;
+}
+#log-btn{
+    text-decoration-line: none;
+}
+#sign-btn{
+    text-decoration-line: none;
+}
+body{
+    background-color: lightslategray;
+    color: aliceblue;
+}
